@@ -14,4 +14,4 @@ Python tool for calibrating HSV thresholds for use with OpenCV
 
 
 
---Alessandro Bonecchi
+--albonec
